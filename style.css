@@ -2,12 +2,6 @@
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700');
 @import url('https://fonts.googleapis.com/css?family=Merriweather:400,700');
 body {
-  background-image:
-    url("https://www.sciencedaily.com/images/2013/03/130317154758_1_540x360.jpg");
-  background-position: center;
-  background-repeat: repeat-x;}
-
-body {
   background-color: white;
   font-family: "Open Sans", sans-serif;
   padding: 5px 25px;
