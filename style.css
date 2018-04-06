@@ -1,16 +1,21 @@
 /* Fonts from Google Fonts - more at https://fonts.google.com */
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700');
 @import url('https://fonts.googleapis.com/css?family=Merriweather:400,700');
+
 body {
   background-color: white;
-  font-family: "Open Sans", sans-serif;
+  font-family: "Courier New", Monospace;
   padding: 5px 25px;
   font-size: 18px;
   margin: 0;
-  color: #444;
+  color: #3a7e57;
 }
-
+p {
+  border-style: solid;
+  border-widith: 10px;
+  border-color: #b1889f
+}
 h1 {
-  font-family: "Merriweather", serif;
+  font-family: "Courier New", monospace;
   font-size: 32px;
 }
