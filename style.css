@@ -3,19 +3,31 @@
 @import url('https://fonts.googleapis.com/css?family=Merriweather:400,700');
 
 body {
-  background-color: white;
-  font-family: "Courier New", Monospace;
+  background-color: rgba(186, 252, 255, 0.31);
+  font-family: "Quicksand", Open Sans;
   padding: 5px 25px;
   font-size: 18px;
   margin: 0;
   color: #3a7e57;
 }
-p {
-  border-style: solid;
-  border-widith: 10px;
-  border-color: #b1889f
-}
+
 h1 {
-  font-family: "Courier New", monospace;
+  font-family: "Quicksand", Open Sans;
   font-size: 32px;
+ color:rgba(48, 88, 136, 0.49)
+
 }
+img{ display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+table {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+} 
+
+
